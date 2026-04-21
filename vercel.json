@@ -1,0 +1,86 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/sales/index.html"
+    },
+    {
+      "source": "/sales",
+      "destination": "/sales/index.html"
+    },
+    {
+      "source": "/bridge",
+      "destination": "/bridge/index.html"
+    },
+    {
+      "source": "/optin",
+      "destination": "/optin/index.html"
+    },
+    {
+      "source": "/upsell1",
+      "destination": "/upsell1/index.html"
+    },
+    {
+      "source": "/upsell2",
+      "destination": "/upsell2/index.html"
+    },
+    {
+      "source": "/upsell3",
+      "destination": "/upsell3/index.html"
+    },
+    {
+      "source": "/upsell4",
+      "destination": "/upsell4/index.html"
+    },
+    {
+      "source": "/downsell1",
+      "destination": "/downsell1/index.html"
+    },
+    {
+      "source": "/downsell2",
+      "destination": "/downsell2/index.html"
+    },
+    {
+      "source": "/downsell3",
+      "destination": "/downsell3/index.html"
+    },
+    {
+      "source": "/downsell4",
+      "destination": "/downsell4/index.html"
+    },
+    {
+      "source": "/bonus",
+      "destination": "/bonus/index.html"
+    },
+    {
+      "source": "/jv",
+      "destination": "/jv/index.html"
+    },
+    {
+      "source": "/thankyou",
+      "destination": "/thankyou/index.html"
+    },
+    {
+      "source": "/thankyou-pro",
+      "destination": "/thankyou-pro/index.html"
+    },
+    {
+      "source": "/thankyou-suite",
+      "destination": "/thankyou-suite/index.html"
+    },
+    {
+      "source": "/thankyou-agency",
+      "destination": "/thankyou-agency/index.html"
+    },
+    {
+      "source": "/thankyou-dfy",
+      "destination": "/thankyou-dfy/index.html"
+    },
+    {
+      "source": "/compliance",
+      "destination": "/compliance/index.html"
+    }
+  ]
+}
